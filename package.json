@@ -1,0 +1,16 @@
+{
+  "name": "curso_jest",
+  "version": "1.0.0",
+  "description": "Curso de Testing Jest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "jest --coverage --verbose"
+  },
+  "author": "Alan Olvera",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-date-mock": "^1.0.8"
+  }
+}
